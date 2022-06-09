@@ -1,5 +1,5 @@
 ## My Github Page
 
-### [JavaScript 30 days](https://busracagliyan.github.io/JavaScript30/)
+### [JavaScript 30 days](https://busracagliyan.github.io/JavaScript30/readme.md)
 
-### [GNOME Shell Extensin Nasıl Oluşturulur?](https://github.com/busracagliyan/Gnome-Extension-Examples/blob/main/howToCreateGnomeExtensions/readme.md)
+### [GNOME Shell Extensin Nasıl Oluşturulur?](https://busracagliyan.github.io/GnomeShellExtensions/readme.md)

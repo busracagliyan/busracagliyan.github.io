@@ -1,9 +1,9 @@
-# Büşra ÇAĞLIYAN
+<h1>Büşra ÇAĞLIYAN</h1>
 
-### about me 
+<h2>About me </h2>
 
 
-### My projects and posts
+<h2>My projects and posts</h2> 
 
 ### [JavaScript 30 days](https://busracagliyan.github.io/JavaScript30/)
 

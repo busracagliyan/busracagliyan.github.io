@@ -1,4 +1,9 @@
-## My Github Page
+# Büşra ÇAĞLIYAN
+
+### about me 
+
+
+### My projects and posts
 
 ### [JavaScript 30 days](https://busracagliyan.github.io/JavaScript30/)
 

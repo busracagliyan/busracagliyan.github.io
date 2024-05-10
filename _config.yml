@@ -1,2 +1,10 @@
+title: Büşra ÇAĞLIYAN
 logo: /assets/img/profile_photo.jpeg
+
+github_username: busracagliyan
+
+
+minima:
+  date_format: "%b %-d, %Y"
+
 theme: minima

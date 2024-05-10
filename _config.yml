@@ -8,3 +8,6 @@ minima:
   date_format: "%b %-d, %Y"
 
 theme: minima
+
+plugins:
+ - jekyll-feed

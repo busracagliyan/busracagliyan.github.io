@@ -5,3 +5,6 @@ minima:
   date_format: "%b %-d, %Y"
 
 theme: minima
+
+minima:
+  skin: auto

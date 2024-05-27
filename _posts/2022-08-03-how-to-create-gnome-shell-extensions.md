@@ -1,6 +1,3 @@
-How to Create Gnome-Shell Extension?
-------------------------------------
-
 In this article, we will learn simple doing gnome-shell extension for Pardus-21 Gnome desktop. We will add an icon to the top panel with this extension and it sends us a notification when clicking the icon.
 
 Firstly, we open the home folder and show the hidden files with ‘ctrl+h’. Then we go to the directory .local/share/gnome-shell/extensions. Here we create a new folder named ‘example@example.com’ in the extensions folder. We create extension.js and metadata.json files in the example@example.com.

@@ -8,3 +8,7 @@ theme: minima
 
 minima:
   skin: auto
+
+collections:
+  projects:
+    output: true

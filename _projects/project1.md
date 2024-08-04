@@ -6,6 +6,3 @@ description: "This is the first test project."
 github_url: "https://github.com/busracagliyan/JavaScript30"
 ---
 
-## Project 1
-
-This is the content of the first project.

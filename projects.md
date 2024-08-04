@@ -8,5 +8,3 @@ permalink: /projects/
 <h1>{{ page.title }}</h1>
 <p>{{ page.description }}</p>
 <p><a href="{{ page.github_url }}">GitHub Repository</a></p>
-
-{{ content }}

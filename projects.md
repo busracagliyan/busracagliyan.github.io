@@ -1,6 +1,9 @@
 ---
-layout: base
+layout: page
+title: Projects
+permalink: /projects/
 ---
+
 
 <h1>{{ page.title }}</h1>
 <p>{{ page.description }}</p>

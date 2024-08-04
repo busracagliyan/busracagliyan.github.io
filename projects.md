@@ -5,6 +5,12 @@ permalink: /projects/
 ---
 
 
-<h1>{{ page.title }}</h1>
-<p>{{ page.description }}</p>
-<p><a href="{{ page.github_url }}">GitHub Repository</a></p>
+<ul>
+  {% for project in site.projects %}
+    <li>
+      <a href="{{ project.url }}">{{ project.title }}</a>
+      <p>{{ project.description }}</p>
+      <p><a href="{{ project.github_url }}">GitHub Repository</a></p>
+    </li>
+  {% endfor %}
+</ul>

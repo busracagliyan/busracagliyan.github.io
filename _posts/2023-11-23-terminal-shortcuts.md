@@ -1,5 +1,3 @@
-# Terminal Shortcuts
-
 Some shortcuts used in the terminal are shown below.
 
 | Keystroke | Action |

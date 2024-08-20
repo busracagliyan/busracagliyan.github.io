@@ -18,7 +18,7 @@ Command operators used in the terminal are used to combine, direct, and execute 
     echo "Hello, World!"; mkdir test; cd test
     ```
     
-    ![image 1](assets/post-command-operators/ss1.png)
+    ![image 1](/assets/post-command-operators/ss1.png)
 
 ### 2. '&' (Ampersand)
 
@@ -36,7 +36,7 @@ Command operators used in the terminal are used to combine, direct, and execute 
     sleep 10 &
     ```
     
-    ![image 2](assets/post-command-operators/ss2.png)
+    ![image 2](/assets/post-command-operators/ss2.png)
       
     > The `fg` command is used to bring a background job to the foreground.
 
@@ -54,7 +54,7 @@ Command operators used in the terminal are used to combine, direct, and execute 
     ```bash
     pwd && ls
     ```
-    ![image 3](assets/post-command-operators/ss3.png)
+    ![image 3](/assets/post-command-operators/ss3.png)
 
 ### 4. '||' (OR)
 
@@ -70,7 +70,7 @@ Command operators used in the terminal are used to combine, direct, and execute 
     ```bash
     pwd || ls
     ```
-    ![image 4](assets/post-command-operators/ss4.png)
+    ![image 4](/assets/post-command-operators/ss4.png)
 
 ### 5. '|' (PIPE)
 
@@ -86,7 +86,7 @@ Command operators used in the terminal are used to combine, direct, and execute 
     ```bash
     ls -l | grep test
     ```
-    ![image 5](assets/post-command-operators/ss5.png)
+    ![image 5](/assets/post-command-operators/ss5.png)
 
 ### 6. '!'
 
@@ -104,7 +104,7 @@ This command is used to re-run a command that was run in the past. Usage example
         ```bash
         !12
         ```
-        ![image 6.1](assets/post-command-operators/ss6-1.png)
+        ![image 6.1](/assets/post-command-operators/ss6-1.png)
       
 2. '**!!**'
     - Reruns the last executed command.
@@ -119,7 +119,7 @@ This command is used to re-run a command that was run in the past. Usage example
         ls
         !!
         ```
-        ![image 6.2](assets/post-command-operators/ss6-2.png)
+        ![image 6.2](/assets/post-command-operators/ss6-2.png)
 
 3. '**!string**'
     - Reruns the last command that started with `string`.
@@ -133,7 +133,7 @@ This command is used to re-run a command that was run in the past. Usage example
         ```bash
         !echo
         ```
-        ![image 6.3](assets/post-command-operators/ss6-3.png)
+        ![image 6.3](/assets/post-command-operators/ss6-3.png)
       
 4. '**!$**'
     - Reuses the last argument of the last executed command.
@@ -148,7 +148,7 @@ This command is used to re-run a command that was run in the past. Usage example
         echo "Hello, World!"
         vi !$
         ```
-        ![image 6.4](assets/post-command-operators/ss6-4.png)
+        ![image 6.4](/assets/post-command-operators/ss6-4.png)
 
 ### 7. '>', '>>', '<' (The Redirection Operators)
 
@@ -167,7 +167,7 @@ The Redirection Operators
         ```bash
         echo "Hello, World!" > output_file
         ```
-        ![image 7.1](assets/post-command-operators/ss7-1.png)
+        ![image 7.1](/assets/post-command-operators/ss7-1.png)
 
 2. '**>>**'
     - This operator appends the output of a command to a file. If the file does not exist, it is created; if it does, it is appended to the current content.
@@ -183,7 +183,7 @@ The Redirection Operators
         echo "new line" >> output_file2
         echo "new line2" >> output_file2
         ```
-        ![image 7.2](assets/post-command-operators/ss7-2.png)
+        ![image 7.2](/assets/post-command-operators/ss7-2.png)
 
 3. '**<**'
     - This operator is used to get the input of a command from a file.
@@ -198,7 +198,7 @@ The Redirection Operators
         ```bash
         grep a < alphabet.txt
         ```
-        ![image 7.3](assets/post-command-operators/ss7-3.png)
+        ![image 7.3](/assets/post-command-operators/ss7-3.png)
 
 ### 8. '2>' (Redirecting Standard Error)
 
@@ -214,6 +214,6 @@ The Redirection Operators
     ```bash
     ls -l output 2> /dev/null
     ```
-    ![image 8](assets/post-command-operators/ss8.png)
+    ![image 8](/assets/post-command-operators/ss8.png)
   
     > The `/dev/null` file is specifically used to prevent unwanted output or error messages.

@@ -176,11 +176,11 @@ Then we create a notification adding a popup menu to our extension.
 
 Finally, we run the r command doing ‘alt+f2’. We will see in there the name of our extension when we look at the tweaks app.
 
-![alt text](https://busracagliyan.github.io/Gnome-Extension-Examples/assets/example.drawio.png)
+![alt text](/assets/post-gnome-shell-extensions/example.drawio.png)
 
 Now our extension is running.
 
-![alt text](https://busracagliyan.github.io/Gnome-Extension-Examples/assets/screenshot1.png)
+![alt text](/assets/post-gnome-shell-extensions/screenshot1.png)
 
 * * *
 
@@ -195,15 +195,15 @@ We write and run.
 
 Firstly, we enter the name of our extension.
 
-![alt text](https://busracagliyan.github.io/Gnome-Extension-Examples/assets/screenshot2.png)
+![alt text](/assets/post-gnome-shell-extensions/screenshot2.png)
 
 Then we write the description of our extension.
 
-![alt text](https://busracagliyan.github.io/Gnome-Extension-Examples/assets/screenshot3.png)
+![alt text](/assets/post-gnome-shell-extensions/screenshot3.png)
 
 Final, we write the uuid and we are done.
 
-![alt text](https://busracagliyan.github.io/Gnome-Extension-Examples/assets/screenshot4.png)
+![alt text](/assets/post-gnome-shell-extensions/screenshot4.png)
 
 Now the skeleton of our extension is ready. We write code in the extension.js file as we did above and doing alt+f2 we are running our extension.
 

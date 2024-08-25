@@ -1,10 +1,11 @@
 title: Website
 author:
-  name: busracagliyan
-  email: bsrcagliyann@gmail.com
+  name: busra
+  github: https://github.com/busracagliyan
+  linkedin: https://www.linkedin.com/in/busracagliyan
 
-description: >
-  # test
+# description: >
+#   test
 
 theme: minima
 
@@ -26,6 +27,6 @@ collections:
   projects:
     output: true
 
-social_links:
-  - { platform: linkedin, user_url: "https://www.linkedin.com/in/busracagliyan"}
-  - { platform: github,   user_url: "https://github.com/busracagliyan"}
+#social_links:
+ # - { platform: linkedin, user_url: "https://www.linkedin.com/in/busracagliyan"}
+ # - { platform: github,   user_url: "https://github.com/busracagliyan"}

@@ -4,7 +4,7 @@ author:
   email: bsrcagliyann@gmail.com
 
 description: >
-  test
+  # test
 
 theme: minima
 
@@ -13,10 +13,11 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
+  - projects.md
   - about.md
 
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%b %d, %Y"
 
 minima:
   skin: auto
@@ -26,5 +27,5 @@ collections:
     output: true
 
 social_links:
-  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/busracagliyan"}
-  - { platform: github,         user_url: "https://github.com/busracagliyan"}
+  - { platform: linkedin, user_url: "https://www.linkedin.com/in/busracagliyan"}
+  - { platform: github,   user_url: "https://github.com/busracagliyan"}

@@ -26,5 +26,5 @@ collections:
     output: true
 
 social_links:
-  -{platform: linkedin, user_url: "https://www.linkedin.com/in/busracagliyan"}
-  -{platform: github, user_url: "https://github.com/busracagliyan"}
+  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/busracagliyan"}
+  - { platform: github,         user_url: "https://github.com/busracagliyan"}
